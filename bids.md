@@ -1,5 +1,5 @@
-# Authentication Microservice
-Authentication Microservice description.
+# Bidding Microservice
+Bidding Microservice description.
 
 ## Version: 1.0.0
 
