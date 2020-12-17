@@ -34,3 +34,23 @@ List Bids
 | Code | Description |
 | ---- | ----------- |
 | 200 | Auto generated using Swagger Inspector |
+
+### /v1/bid/{id}
+
+#### GET
+##### Description:
+
+Get Bid By ID
+
+##### Parameters
+
+| Name | Located in | Description | Required | Schema |
+| ---- | ---------- | ----------- | -------- | ---- |
+| local | header |  | Yes | string |
+| id | path | bid Id | Yes | string |
+
+##### Responses
+
+| Code | Description |
+| ---- | ----------- |
+| 200 | Auto generated using Swagger Inspector |
